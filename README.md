@@ -18,6 +18,6 @@ This interactive web application visualizes the core spatial findings from our s
 
 *   **Code Version:** `1.0.0`
 *   **Release State:** **Manuscript Submission**
-*   **Snapshot Date:** `[08/08/2025]`
+*   **Snapshot Date:** `08/08/2025`
 *   **Corresponds to:** The live application hosted at the URL above.
 
