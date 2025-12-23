@@ -1,13 +1,8 @@
-# NER Malaria Spatial Analysis: Interactive Web Application
+[# NER Malaria Spatial Analysis: Interactive Web Application
 
 This repository contains the Shiny web application supporting the manuscript:
 **"Quantifying the effect of climate and sociodemographic factors on malaria transmission in the Northeast region of India using geospatial modelling"**
 
-**Authors:** [Author List]
-
-**Journal:** [Journal Name],
-
-**Manuscript ID:** [Manuscript ID, if available]
 
 ## 📌 Application Overview
 
@@ -21,3 +16,4 @@ This interactive web application visualizes the core spatial findings from our s
 *   **Release State:** **Manuscript Submission**
 *   **Snapshot Date:** `[08/08/2025]`
 *   **Corresponds to:** The live application hosted at the URL above.
+](https://github.com/hari-stats/NEMalariaApp.git)
